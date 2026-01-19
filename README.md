@@ -7,8 +7,11 @@ Overall, the proposed EWDSS enables UIDAI to anticipate enrolment stress, priori
 Key Decision Outcomes
 
 •	Proactive capacity planning using month-ahead forecasts for both district and pincodes.
+
 •	Risk-based monitoring and audits using anomaly rankings, instability scores, and reason codes.
+
 •	Cluster-based governance: common playbooks for regions with similar behaviour (scalable policy design).
+
 •	Stable benchmarks via consistent-performer identification.
 
 Problem Statement
